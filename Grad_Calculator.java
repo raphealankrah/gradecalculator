@@ -7,8 +7,6 @@ import java.util.Scanner;
  * from homework assignments and two exams. It accounts for extra credit, late days,
  * and lab attendance, ensuring that all scores are capped at their maximum values.
  *
- * Author: [Your Name]
- * Date: [Current Date]
  */
 public class CourseGradeCalculator {
     public static void main(String[] args) {
