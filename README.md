@@ -1,0 +1,1 @@
+This program calculates a student's final course grade based on weighted averages from homework assignments and two exams. It accounts for extra credit, late days, and lab attendance, ensuring that all scores are capped at their maximum values.
